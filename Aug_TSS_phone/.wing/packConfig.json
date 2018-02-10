@@ -1,0 +1,10 @@
+{
+    "useClip": false,
+    "maxImageWidth": 2048,
+    "maxImageHeight": 2048,
+    "defaultResPath": "i:\\EgretPro\\java贪食蛇\\Aug_TSS_phone\\resource\\default.res.json",
+    "packGroups": {
+        "preload": true,
+        "loading": true
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ftp-171123115642",
+        "host": "112.74.97.169",
+        "user": "username",
+        "password": "password",
+        "port": 9555,
+        "protocol": "ftp",
+        "remotePath": "bin-release/",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1511409956932.diff",
+        "usediffFile": true
+    },
+    {
+        "name": "ftp_1_1",
+        "host": "39.106.5.94",
+        "user": "root",
+        "password": "Ihouqiroot001",
+        "port": 22,
+        "protocol": "ftp",
+        "remotePath": "bin-release/",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1511430266172.diff",
+        "usediffFile": true
+    }
+]

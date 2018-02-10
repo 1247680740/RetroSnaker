@@ -1,0 +1,17 @@
+<view name="OnePeople" extend="wy.BaseSprite" width="1036" height="640">
+  <Image name="bg.jpg" src="OnePeople/bg.jpg" x="0" y="0" width="1036" height="640" id="bg"/>
+  <Label text="label" align="left" size="15" color="0xffffff" x="577" y="294" width="200" height="17" id="l1"/>
+  <Label text="label" align="left" size="15" color="0xffffff" x="576" y="339" width="200" height="18" id="l2"/>
+  <Label text="label" align="left" size="15" color="0xffffff" x="576" y="386" width="200" height="18" id="l3"/>
+  <Label text="label" align="left" size="15" color="0xffffff" x="576" y="433" width="200" height="17" id="l4" font=""/>
+  <Image name="guang2.png" src="OnePeople/guang2.png" x="273" y="286" width="218" height="174" id="guang2"/>
+  <Image name="wutai.png" src="OnePeople/wutai.png" x="272" y="401" width="214" height="68"/>
+  <Image name="shan2.png" src="OnePeople/shan2.png" x="271" y="401" width="214" height="42" id="shan2"/>
+  <Image name="xin1.png" src="OnePeople/xin1.png" x="341" y="428" width="58" height="57" id="xin2"/>
+  <Image name="xin1.png" src="OnePeople/xin1.png" x="400" y="426" width="54" height="55" id="xin3"/>
+  <Image name="xin1.png" src="OnePeople/xin1.png" x="285" y="426" width="55" height="55" id="xin1"/>
+  <Image name="chongzi.png" src="OnePeople/chongzi.png" x="351" y="228" width="58" height="205" id="chongzi"/>
+  <Image name="guang1.png" src="OnePeople/guang1.png" x="263" y="225" width="236" height="249" id="guang1"/>
+  <Image name="shan1.png" src="OnePeople/shan1.png" x="59" y="34" width="886" height="84" id="shan1"/>
+  <Label text="label" x="398" y="150" width="200" height="30" color="0xffffff" size="25" align="center" id="lv"/>
+</view>

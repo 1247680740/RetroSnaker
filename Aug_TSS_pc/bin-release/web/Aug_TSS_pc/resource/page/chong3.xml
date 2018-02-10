@@ -1,0 +1,5 @@
+<view name="chong3" extend="wy.BaseSprite"  width="640" height="1070" >
+     <Image name="chong3_2.png" src="chong3/chong3_2.png" x="257" y="400" width="151" height="151" />
+     <Image name="chong3_1.png" src="chong3/chong3_1.png" x="239" y="298" width="197" height="161" />
+     <Image name="chong3_3.png" src="chong3/chong3_3.png" x="257" y="493" width="151" height="173" />
+</view>

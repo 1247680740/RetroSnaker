@@ -1,0 +1,7 @@
+<view name="pa" extend="wy.BaseSprite" width="1920" height="1080">
+  <Image name="pa_bg.png" src="pa/pa_bg.png" x="0" y="0" width="1920" height="1080" id="bg"/>
+  <Label text="label" align="left" size="40" color="0" x="922" y="333" width="263" height="59" id="l1"/>
+  <Label text="label" align="left" size="40" color="0" x="922" y="436" width="263" height="59" id="l2"/>
+  <Image name="pa_btn1.png" src="pa/pa_btn1.png" x="674" y="591" width="235" height="77" id="btn1"/>
+  <Image name="pa_btn2.png" src="pa/pa_btn2.png" x="1006" y="591" width="235" height="77" id="btn2"/>
+</view>

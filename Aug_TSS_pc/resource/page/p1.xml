@@ -1,0 +1,36 @@
+<view name="p1" extend="wy.BaseSprite" width="1920" height="1080">
+  <Image name="p1_bg.jpg" src="p1/p1_bg.jpg" x="0" y="0" width="1920" height="1080" id="bg"/>
+  <Image name="p1_cao81.png" src="p1/p1_cao81.png" x="102" y="764" width="268" height="250" id="dan3"/>
+  <Image name="p1_cao71.png" src="p1/p1_cao71.png" x="1340" y="505" width="264" height="257" id="dan5"/>
+  <Image name="p1_cao61.png" src="p1/p1_cao61.png" x="1349" y="265" width="250" height="261" id="dan2"/>
+  <Image name="p1_cao51.png" src="p1/p1_cao51.png" x="109" y="290" width="274" height="247" id="dan4"/>
+  <Image name="p1_cao41.png" src="p1/p1_cao41.png" x="1349" y="777" width="254" height="233" id="dan1"/>
+  <Image name="p1_cao31.png" src="p1/p1_cao31.png" x="111" y="536" width="236" height="238" id="dan8"/>
+  <Image name="p1_cao21.png" src="p1/p1_cao21.png" x="1347" y="74" width="246" height="224" id="dan6"/>
+  <Image name="p1_cao11.png" src="p1/p1_cao11.png" x="121" y="54" width="250" height="275" id="dan7"/>
+  <Image name="phb.png" src="p1/phb.png" x="1702" y="3" width="205" height="667"/>
+  <Label text="" align="left" size="20" color="0" x="1721" y="397" width="180" height="22" id="l4"/>
+  <Label text="" align="left" size="20" color="0" x="1721" y="425" width="180" height="22" id="l5"/>
+  <Label text="" align="left" size="20" color="0" x="1721" y="455" width="180" height="22" id="l6"/>
+  <Label text="" align="left" size="22" color="0" x="1762" y="187" width="197" height="30" id="l1"/>
+  <Label text="" align="left" size="22" color="0" x="1762" y="250" width="197" height="30" id="l2"/>
+  <Label text="" align="left" size="22" color="0" x="1762" y="309" width="197" height="30" id="l3"/>
+  <Label text="" align="left" size="20" color="0" x="1721" y="485" width="180" height="22" id="l7"/>
+  <Label text="" align="left" size="20" color="0" x="1721" y="515" width="180" height="22" id="l8"/>
+  <Label text="" x="1721" y="545" width="180" height="22" color="0" size="20" id="l9" align="left"/>
+  <Label text="" x="1721" y="575" width="180" height="22" color="0" size="20" id="l10" align="left"/>
+  <Label text="" x="1721" y="605" width="180" height="22" color="0" size="20" id="l11" align="left"/>
+  <Label text="03:00" x="0" y="0" width="1920" height="45" align="center" id="timetext" font="宋体" size="38" color="0xfe4452"/>
+  <Image name="p1_title.png" src="p1/p1_title.png" x="362" y="203" width="1182" height="264" id="title"/>
+  <Image name="p1_btn.png" src="p1/p1_btn.png" x="639" y="667" width="642" height="162" id="btn"/>
+  <Label text="00:45" x="-43" y="89" width="1920" height="90" font="宋体" color="0xff00ff" size="80" align="center" id="timedao"/>
+  <Label text="" x="1745" y="11" width="120" height="120" id="btnset"/>
+  <Label text="哈哈哈哈" x="1758.5" y="829" width="100" height="30" align="center" id="la3" color="0" size="20"/>
+  <Label text="击杀数量：" x="1717.5" y="877" width="100" height="30" id="la4" font="0" size="18"/>
+  <Label text="击杀最多" x="1779.5" y="708" width="100" height="30" color="0xffffff" size="20" id="la2"/>
+  <Label text="今日" x="1722" y="708" width="50" height="30" size="25" color="0xffffff" id="la1"/>
+  <Label text="" x="1775" y="760" width="60" height="60" id="headi"/>
+  <Label text="20s" x="1802.5" y="877" width="100" height="30" id="la5" size="20" color="0xf59724"/>
+  <Image name="p2_ewmzhong.png" src="p1/p2_ewmzhong.png" x="463" y="148" width="857" height="740" id="ewm"/>
+  <Image name="eww.png" src="p1/eww.png" x="569" y="143" width="700" height="700" id="ewmx"/>
+</view>

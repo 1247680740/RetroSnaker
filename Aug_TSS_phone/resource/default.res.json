@@ -1,0 +1,139 @@
+{
+	"groups": [
+		{
+			"keys": "music_btn_png,chongzi1_png,chongzi2_png,chongzi3_png,chongzi4_png,chongzi5_png,chongzi6_png,chongzi7_png,chongzi8_png,btn_png,yuan1_png,yuan2_png,p1_title_png,p1_bg_jpg,end_wav,bg_jpg,chongzi_png,guang1_png,guang2_png,shan1_png,shan2_png,wutai_png,xin1_png",
+			"name": "preload"
+		},
+		{
+			"keys": "loading_png,loading_json",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/music_btn.png",
+			"type": "image",
+			"name": "music_btn_png"
+		},
+		{
+			"url": "assets/loading.png",
+			"type": "image",
+			"name": "loading_png"
+		},
+		{
+			"url": "assets/loading.json",
+			"type": "json",
+			"name": "loading_json"
+		},
+		{
+			"name": "chongzi1_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi1.png"
+		},
+		{
+			"name": "chongzi2_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi2.png"
+		},
+		{
+			"name": "chongzi3_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi3.png"
+		},
+		{
+			"name": "chongzi4_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi4.png"
+		},
+		{
+			"name": "chongzi5_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi5.png"
+		},
+		{
+			"name": "chongzi6_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi6.png"
+		},
+		{
+			"name": "chongzi7_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi7.png"
+		},
+		{
+			"name": "chongzi8_png",
+			"type": "image",
+			"url": "assets/chongzi/chongzi8.png"
+		},
+		{
+			"name": "btn_png",
+			"type": "image",
+			"url": "assets/btn.png"
+		},
+		{
+			"name": "yuan1_png",
+			"type": "image",
+			"url": "assets/yuan1.png"
+		},
+		{
+			"name": "yuan2_png",
+			"type": "image",
+			"url": "assets/yuan2.png"
+		},
+		{
+			"name": "p1_title_png",
+			"type": "image",
+			"url": "assets/p1_title.png"
+		},
+		{
+			"name": "p1_bg_jpg",
+			"type": "image",
+			"url": "assets/p1_bg.jpg"
+		},
+		{
+			"name": "end_wav",
+			"type": "sound",
+			"url": "assets/end.wav"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/OnePeople/bg.jpg"
+		},
+		{
+			"name": "chongzi_png",
+			"type": "image",
+			"url": "assets/OnePeople/chongzi.png"
+		},
+		{
+			"name": "guang1_png",
+			"type": "image",
+			"url": "assets/OnePeople/guang1.png"
+		},
+		{
+			"name": "guang2_png",
+			"type": "image",
+			"url": "assets/OnePeople/guang2.png"
+		},
+		{
+			"name": "shan1_png",
+			"type": "image",
+			"url": "assets/OnePeople/shan1.png"
+		},
+		{
+			"name": "shan2_png",
+			"type": "image",
+			"url": "assets/OnePeople/shan2.png"
+		},
+		{
+			"name": "wutai_png",
+			"type": "image",
+			"url": "assets/OnePeople/wutai.png"
+		},
+		{
+			"name": "xin1_png",
+			"type": "image",
+			"url": "assets/OnePeople/xin1.png"
+		}
+	]
+}

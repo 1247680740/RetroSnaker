@@ -1,0 +1,3 @@
+<view name="pg2" extend="wy.BaseSprite" width="1036" height="640">
+  <Label text="点击屏幕开始游戏" x="363" y="291" width="300" height="40" size="30" align="center" color="0x00ff00"/>
+</view>

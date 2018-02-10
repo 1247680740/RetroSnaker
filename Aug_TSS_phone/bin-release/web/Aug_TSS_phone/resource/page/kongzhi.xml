@@ -1,0 +1,7 @@
+<view name="kongzhi" extend="wy.BaseSprite" width="1036" height="640">
+  <Label text="加  速" x="835" y="405" width="85" height="40" size="30" color="0x00ff00" id="l1" font="微软雅黑" align="center"/>
+  <Image name="yuan2.png" src="yuan2.png" x="80" y="327" width="183" height="183" id="kzbg"/>
+  <Image name="yuan1.png" src="yuan1.png" x="132" y="381" width="74" height="74" id="kzby"/>
+  <Image name="btn.png" src="btn.png" x="784" y="343.5" width="157" height="157" id="btn"/>
+  <Image name="p1_title.png" src="p1_title.png" x="196" y="32" width="640" height="142" id="title"/>
+</view>
